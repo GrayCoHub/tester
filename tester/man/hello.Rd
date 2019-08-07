@@ -13,7 +13,7 @@ hello(x)
 The output from \code{\link{print}}
 }
 \description{
-
+My Hello World Function
 }
 \examples{
 hello("Gray")

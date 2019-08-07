@@ -2,3 +2,5 @@
 
 export(hello)
 export(printer)
+importFrom(tibble,data_frame)
+importFrom(utils,head)
